@@ -1,15 +1,15 @@
 <div align="center">
 
-# ✂️ PDF Split
+# 📕 PDF Split
 
-### Use PDF Split free on ToolAdda — quick, accurate, and browser-based.
+### Separate PDF pages by range, extract selected pages, split every page, or divide every N pages. Thumbnail preview, ZIP download — everything runs in your browser with no upload and no watermark.
 
 [![Visit PDF Split](https://img.shields.io/badge/Visit%20PDF%20Split-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/pdf-split.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/pdf-split.html)
 [![Category](https://img.shields.io/badge/PDF%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Split a PDF into separate pages or custom page ranges free online. Runs 100% in your browser — no uploads, no signup, no watermark. Download single pages or a ZIP.**
+**Split PDF online free — separate pages, extract ranges, split every page or every N pages. Browser-based, no upload, no watermark. Download single PDF or ZIP.**
 
 [🚀 **Open PDF Split Now →**](https://tooladda.online/pdf-split.html)
 
@@ -91,10 +91,16 @@ Visit tooladda.online — search for PDF Split or use the link in this repositor
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>pdf split</code>&nbsp;
-  <code>free pdf split</code>&nbsp;
-  <code>online pdf split</code>&nbsp;
-  <code>pdf split tooladda</code>&nbsp;
+  <code>split pdf</code>&nbsp;
+  <code>pdf splitter</code>&nbsp;
+  <code>split pdf online</code>&nbsp;
+  <code>separate pdf pages</code>&nbsp;
+  <code>divide pdf</code>&nbsp;
+  <code>extract pdf pages</code>&nbsp;
+  <code>break pdf into pages</code>&nbsp;
+  <code>split pdf file</code>&nbsp;
+  <code>split pdf by pages</code>&nbsp;
+  <code>split pdf without adobe</code>&nbsp;
 </p>
 
 ---
@@ -111,4 +117,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: PDF Split, pdf split, free pdf split, online pdf split, pdf split tooladda, tooladda, free online tool -->
+<!-- SEO: PDF Split, split pdf, pdf splitter, split pdf online, separate pdf pages, divide pdf, extract pdf pages, break pdf into pages, split pdf file, split pdf by pages, split pdf without adobe, tooladda, free online tool -->
